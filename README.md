@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="100">
   <br>
-  Merhaba, Ben Batuhan (RealVeles)!
+  Merhaba, Ben Batuhan!
 </h1>
 
 <p align="center">
